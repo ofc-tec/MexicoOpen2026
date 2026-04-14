@@ -1,7 +1,8 @@
 # MexicoOpen2026
 
-## Rulebook
-[https://robocupathome.github.io/RuleBook/rulebook/master.pdf](url)
+## Rulebook [https://github.com/RoboCupAtHome/RuleBook.git](url)
+
+
 
 ## Important Note - Mandatory Events
 
