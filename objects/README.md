@@ -1,5 +1,8 @@
 # MexicoOpen2026
 
+## Rulebook
+[https://robocupathome.github.io/RuleBook/rulebook/master.pdf](url)
+
 ## Important Note - Mandatory Events
 
 De manera encarecida, se solicita suspender las actividades de competencia para que todos los participantes puedan asistir sin falta a los siguientes eventos que se llevarán a cabo en el Centro de Convenciones (CC) durante el TMR 2026:
