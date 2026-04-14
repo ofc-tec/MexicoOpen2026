@@ -1,6 +1,6 @@
 # MexicoOpen2026
 
-## Rulebook [https://github.com/RoboCupAtHome/RuleBook.git](url)
+## Rulebook [https://github.com/RoboCupAtHome/RuleBook.git]
 
 
 
