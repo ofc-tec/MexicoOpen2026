@@ -3,12 +3,11 @@
 | Objectname               |  Image                   |
 |:-------------------------:|:-------------------------:|
 | orange_juice  |  ![](known_objects/drinks/orange_juice.jpg) |
-| red_wine  |  ![](known_objects/drinks/red_wine.jpg) |
 | milk  |  ![](known_objects/drinks/milk.jpg) |
 | iced_tea  |  ![](known_objects/drinks/iced_tea.jpg) |
 | cola  |  ![](known_objects/drinks/cola.jpg) |
-| tropical_juice  |  ![](known_objects/drinks/tropical_juice.jpg) |
-| juice_pack  |  ![](known_objects/drinks/juice_pack.jpg) |
+| sidral  |  |
+| mundet  | 
 
 
 # Class fruits (fruit)
@@ -18,18 +17,14 @@
 | apple  |  ![](known_objects/fruits/apple.png) |
 | pear  |  ![](known_objects/fruits/pear.png) |
 | lemon  |  ![](known_objects/fruits/lemon.png) |
-| peach  |  ![](known_objects/fruits/peach.png) |
 | banana  |  ![](known_objects/fruits/banana.png) |
-| strawberry  |  ![](known_objects/fruits/strawberry.png) |
 | orange  |  ![](known_objects/fruits/orange.png) |
-| plum  |  ![](known_objects/fruits/plum.png) |
 
 
 # Class snacks (snack)
 
 | Objectname               |  Image                   |
 :-------------------------:|:-------------------------:
-| cheezit  |  ![](known_objects/snacks/cheezit.png) |
 | cornflakes  |  ![](known_objects/snacks/cornflakes.jpg) |
 | pringles  |  ![](known_objects/snacks/pringles.png) |
 
