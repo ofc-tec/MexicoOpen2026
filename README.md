@@ -23,22 +23,25 @@
 
 Individual task scores can be found [here](scores.md).
 
-## Schedule
+## Schedule Mapping 
 
 *(To be updated with the final schedule)*
 
-| Thu 16 Apr | Fri 17 Apr | Sat 18 Apr |
+|            | Thu 16 Apr | Fri 17 Apr |
 |------------|------------|------------|
-| 09:00      |            |            |
-| 10:00      |            |            |
-| 11:00      |            |            |
-| 12:00      |            |            |
-| 13:00      |            |            |
-| 14:00      |            |            |
-| 15:00      |            |            |
-| 16:00      |            |            |
+| 11:00      | Takeshi    |            |
+| 11:20      | Veracruz1  |            |
+| 11:40      | Roborregos |            |
+| 12:00      | Markovitos |            |
+| 12:20      | Ver 2      |            |
+| 12:40      | Justina    |            |
+
+
+
+
+
+| 15:00      | HRI CHALLEN|            |
 | 17:00      |            |            |
-| 18:00      |            |            |
 
 ## Arenas
 
