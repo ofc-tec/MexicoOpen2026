@@ -29,10 +29,7 @@ Individual task scores can be found [here](scores.md).
 | 12:00      | Markovitos |            |
 | 12:20      | justina    |            |
 | 12:40      | obert      |            |
-
-
-APROX
-| 15:00      | Markovitos  |            |
+| 15:00 APROX|Markovitos  |            |
 |            | Takeshi     |            |
 |            | Omnibot     |            |
 |            | Justina     |            |
