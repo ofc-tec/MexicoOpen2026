@@ -24,19 +24,31 @@ Individual task scores can be found [here](scores.md).
 |            | Thu 16 Apr | Fri 17 Apr |
 |------------|------------|------------|
 | 11:00      | Takeshi    |            |
-| 11:20      | |          |
-| 11:40      | justina
-|            |
+| 11:20      |            |            |
+| 11:40      | justina    |            |
 | 12:00      | Markovitos |            |
-| 12:20      | justina      |            |
-| 12:40      | obert    |            |
+| 12:20      | justina    |            |
+| 12:40      | obert      |            |
+
+
+APROX
+| 15:00      | Markovitos  |            |
+|            | Takeshi     |            |
+|            | Omnibot     |            |
+|            | Justina     |            |
+|            | Roborregos  |            |
+|            | Oberto      |            |
 
 
 
 
 
-| 15:00      | HRI CHALLEN|            |
-| 17:00      |            |            |
+3:00|markovitos
+takeshi
+omnibot
+justina
+roborregos
+oberto
 
 ## Arenas
 
