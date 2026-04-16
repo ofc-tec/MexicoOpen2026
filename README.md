@@ -6,12 +6,6 @@
 - [Schedule](#schedule)
 - [Robot Inspection](#robot-inspection)
 
-  - [Receptionist](#receptionist)
-  - [Storing Groceries](#storing-groceries)
-  - [Carry my Luggage](#carry-my-luggage)
-  - [GPSR](#gpsr)
-  - [Clean the Table](#clean-the-table)
-
 ## Scores
 
 | Team   | DL  | GPSR | HRI | PP   | Poster | Restaurant | Total Score |
@@ -44,12 +38,6 @@ Individual task scores can be found [here](scores.md).
 | 17:00      |            |            |
 
 ## Arenas
-
-### General Information
-
-- **Arena Map**: [maps/arena.png](maps/arena.png)
-- **Task Map**: [maps/arena_task.png](maps/arena_task.png)
-- **Location Names**: [maps/location_names.md](maps/location_names.md)
 
 - **Objects**
   - [Known Objects](objects/objects.md)
