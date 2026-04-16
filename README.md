@@ -24,11 +24,12 @@ Individual task scores can be found [here](scores.md).
 |            | Thu 16 Apr | Fri 17 Apr |
 |------------|------------|------------|
 | 11:00      | Takeshi    |            |
-| 11:20      | Veracruz1  |            |
-| 11:40      | Roborregos |            |
+| 11:20      | |          |
+| 11:40      | justina
+|            |
 | 12:00      | Markovitos |            |
-| 12:20      | Ver 2      |            |
-| 12:40      | Justina    |            |
+| 12:20      | justina      |            |
+| 12:40      | obert    |            |
 
 
 
