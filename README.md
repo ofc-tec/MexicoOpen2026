@@ -22,11 +22,11 @@
 *(To be updated with the final schedule)*
 
 |            | Thu 16 Apr | Fri 17 Apr |
-| 8:30       |            | roborregos     |
-|            |            | takeshi        |
-|            |            | oberto         |
-|            |            | markovitos     |
-|            |            | justina        |
+| 8:30       |            | roborregos |
+|            |            | takeshi    |
+|            |            | uverto     |
+|            |            | markovitos |
+|            |            | justina    |
 |------------|-----hri ---|------------|
 | 15:00 APROX|Markovitos  |            |
 |            | Takeshi    |            |
