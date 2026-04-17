@@ -15,7 +15,6 @@
 | Uverto    | 0   | 0    | 65    | 0.0  | 0      | 0          | 0.0         |
 | Takeshi   | 0   | 0    | 415   | 0.0  | 0      | 0          | 0.0         |
 | Omnibot   | 0   | 0    | 0     | 0.0  | 0      | 0          | 0.0         |
-Individual task scores can be found [here](scores.md).
 
 ## Schedule Mapping 
 
