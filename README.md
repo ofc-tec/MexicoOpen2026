@@ -33,7 +33,7 @@
 |       |            | Markovitos |
 |       |            | Justina    |
 | ------| ---------- |    GPSR    |
-| 13:00 | Omnibot    | Justina    |
+| 14:00 | Omnibot    | Justina    |
 |       | Markovitos | Omnibot    |
 |       | Roborregos | Markovitos |
 |       | Uverto     | Takeshi    |
