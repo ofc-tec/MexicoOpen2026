@@ -15,7 +15,7 @@
 | Uverto    | 0   | 0    | 65    | 0.0  | 0      | 0          | 0.0         |
 | Takeshi   | 0   | 0    | 415   | 0.0  | 0      | 0          | 0.0         |
 | Omnibot   | 0   | 0    | 0     | 0.0  | 0      | 0          | 0.0         |
-| Markovitos| 0   | 0    | 0     | 0.0  | 0      | 0          | 0.0         |
+| Markovitos| 0   | 0    | 410   | 0.0  | 0      | 0          | 0.0         |
 
 ## Schedule Mapping 
 
