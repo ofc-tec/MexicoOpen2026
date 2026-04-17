@@ -21,19 +21,30 @@
 
 *(To be updated with the final schedule)*
 
-|            | Thu 16 Apr | Fri 17 Apr |
-| 8:30       |            | roborregos |
-|            |            | takeshi    |
-|            |            | uverto     |
-|            |            | markovitos |
-|            |            | justina    |
-|------------|-----hri ---|------------|
-| 15:00 APROX|Markovitos  |            |
-|            | Takeshi    |            |
-|            | Omnibot    |            |
-|            | Justina    |            |
-|            | Roborregos |            |
-|            | Oberto     |            |
+## Schedule Mapping
+
+*(To be updated with the final schedule)*
+
+| Time  | Thu 16 Apr | Fri 17 Apr |
+|-------|------------|------------|
+| 08:30 |            | Roborregos |
+|       |            | Takeshi    |
+|       |            | Uverto     |
+|       |            | Markovitos |
+|       |            | Justina    |
+| 13:00 | Omnibot    |    GPSR    |
+| 13:00 | Omnibot    | Justina    |
+|       | Markovitos | Omnibot    |
+|       | Roborregos | Markovitos |
+|       | Uverto     | Takeshi    |
+|       | Justina    | Roborregos |
+|       | Takeshi    | Uverto     |
+|       | Markovitos |            |
+|       | Takeshi    |            |
+| 17:00 | Omnibot    |            |
+| 17:30 | Justina    |            |
+| 18:00 | Roborregos |            |
+| 18:30 | Uverto     |            |
 
 
 
