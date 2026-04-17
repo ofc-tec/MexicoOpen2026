@@ -8,13 +8,13 @@
 
 ## Scores
 
-| Team   | DL  | GPSR | HRI | PP   | Poster | Restaurant | Total Score |
-|--------|-----|------|-----|------|--------|------------|-------------|
-| Team 1 | 0   | 0    | 0   | 0.0  | 0      | 0          | 0.0         |
-| Team 2 | 0   | 0    | 0   | 0.0  | 0      | 0          | 0.0         |
-| Team 3 | 0   | 0    | 0   | 0.0  | 0      | 0          | 0.0         |
-| Team 4 | 0   | 0    | 0   | 0.0  | 0      | 0          | 0.0         |
-
+| Team      | DL  | GPSR | HRI   | PP   | Poster | Restaurant | Total Score |
+|-----------|-----|------|-----  |------|--------|------------|-------------|
+| Roborregos| 0   | 0    | 443   | 0.0  | 0      | 0          | 0.0         |
+| Justina   | 0   | 0    | 127   | 0.0  | 0      | 0          | 0.0         |
+| Uverto    | 0   | 0    | 65    | 0.0  | 0      | 0          | 0.0         |
+| Takeshi   | 0   | 0    | 415   | 0.0  | 0      | 0          | 0.0         |
+| Omnibot   | 0   | 0    | 0     | 0.0  | 0      | 0          | 0.0         |
 Individual task scores can be found [here](scores.md).
 
 ## Schedule Mapping 
