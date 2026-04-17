@@ -42,10 +42,12 @@
 |       | Markovitos |            |
 |       | Takeshi    |            |
 | 17:00 | Omnibot    |            |
-| 17:30 | Justina    |            |
-| 18:00 | Roborregos |            |
-| 18:30 | Uverto     |            |
-
+| 18:00 | ---------- | Restarurant|
+| 18:00 | ---------- | Takeshi    |
+|       | ---------- | Uverto     |
+|       | ---------- | Markovitos |
+|       | ---------- | Omnibot    |
+|       | ---------- | Roborregos |
 
 
 
